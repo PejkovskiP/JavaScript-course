@@ -22,7 +22,6 @@ fruits[2] = 'pear';
 fruits[3] = 'strawberry';
 
 fruits[fruits.length] = 'blueberry';
-
 fruits[fruits.length] = 'peach';
 
 x = fruits;
