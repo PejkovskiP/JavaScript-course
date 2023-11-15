@@ -32,7 +32,7 @@ person.greet();
 const person2 = {
     'first name': 'Petar',
     'last name': 'Pejkovski'
-}
+};
 
 x = person2['first name'];
 
